@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
   //Variable Declaration/Initialization
+	int x1 = 25;
   ColorFilledCircle c; //What happens here?
   Circle c1(100,100,10); //Which Constructor runs?
   ColorCircle c2(300,100,10,255,0,0); //Which Constructors runs?
